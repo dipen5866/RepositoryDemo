@@ -18,6 +18,7 @@
     [super viewDidLoad];
     
     NSLog(@"Trying git repository");
+    NSLog(@"Doing R&D on git repository");
     
     // Do any additional setup after loading the view, typically from a nib.
 }
